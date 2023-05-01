@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on this process
-- 📫 How to reach me  is through CaraNerac
+- 📫 How to reach me  is through @CaraNerac on Linkedin or carenjambi@gmail.com
 
 <!---
 CaraNerac/CaraNerac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
